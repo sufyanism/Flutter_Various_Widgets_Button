@@ -1,16 +1,33 @@
-# flutter_project
+# Button Widgets
+Buttons allow users to interact with events and options. These widgets can include a variety of shapes and styles for UI elements like dialogs and tools. As simple devices, they provide click functionality for tasks like sending documents. 
 
-A new Flutter project.
+# Download Flutter
+- Visit the official Flutter site "https://docs.flutter.dev/get-started/install"
+- Extract the downloaded file, e.g., C:\src\flutter.
+- Add the flutter/bin directory to your system's 'PATH' 
+(Settings are  : Open Control Panel > System and Security > System > Advanced system settings > Environment Variables > System variables section, find the Path )
+- `flutter doctor` (Run Flutter Doctor)
 
-## Getting Started
+# To run the existing project
+- Extract the folder copy it to desired location
+- Move into the folder open Command prompt
+- Run `flutter run`
 
-This project is a starting point for a Flutter application.
+# if not working ( create new project )
+- `flutter create my_flutter_app` (project name could be anything) (Installation and setup )
+- `cd my_flutter_app` (navigate to the project)
+- `flutter run` (Run the project)
+- Paste the files of the project into new setup just by coping.
 
-A few resources to get you started if this is your first Flutter project:
+# Features
+You can get an idea how to use Button Widgets in your project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Screenshot
+![Elevated buttons](https://github.com/user-attachments/assets/10184f52-aec3-4d51-a4d8-8b027cdb1ffe)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
